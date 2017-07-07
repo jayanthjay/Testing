@@ -1,6 +1,2 @@
 node_modules
-.idea/vcs.xml
-.idea/SVN.xml
-.idea/modules.xml
-.idea/workspace.xml
-.idea
+.idea/
