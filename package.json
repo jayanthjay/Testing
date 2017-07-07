@@ -1,0 +1,24 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "Test directory to learn git and node",
+  "main": "Test.jsp",
+  "scripts": {
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayanthjay/Testing.git"
+  },
+  "author": "Jay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jayanthjay/Testing/issues"
+  },
+  "homepage": "https://github.com/jayanthjay/Testing#readme",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
